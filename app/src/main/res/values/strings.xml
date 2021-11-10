@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android-Validate</string>
+    <string-array name="property_type">
+        <item>-- Select Property Type --</item>
+        <item>Flat</item>
+        <item>House</item>
+        <item>Bungalow</item>
+    </string-array>
+    <string name="property_type">Property Type</string>
+    <string name="bedrooms">Bedrooms</string>
+    <string name="date_and_time_of_adding_the_property">Date and time of adding the Property</string>
+    <string name="monthly_rent_price">Monthly Rent Price</string>
+    <string name="furniture_types">Furniture types</string>
+    <string name="part_furnished">Part Furnished</string>
+    <string name="unfurnished">Unfurnished</string>
+    <string name="furnished">Furnished</string>
+    <string name="note">Note</string>
+    <string name="name_reporter">Name Reporter</string>
+    <string name="submit">Submit</string>
+</resources>
